@@ -2,7 +2,7 @@ import gsap from 'gsap';
 import { ScrollTrigger, SplitText } from "gsap/all";
 
 import Navbar from './Components/Navbar.jsx'
-import Hero from './Components/Hero.jsx'
+import Hero from './Components/hero.jsx'
 import Cocktails from './Components/Cocktails.jsx'
 import About from './Components/About.jsx'
 
